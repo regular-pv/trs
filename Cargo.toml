@@ -3,8 +3,13 @@ name = "term-rewriting"
 version = "0.1.0"
 authors = ["Timothée Haudebourg <timothee.haudebourg@irisa.fr>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+categories = ["data-structures", "science"]
+keywords = ["term", "pattern", "rewriting", "tree"]
+description = "Term Rewriting Systems"
+repository = "https://github.com/regular-pv/term-rewriting"
+documentation = "https://docs.rs/term-rewriting"
+license = "MIT/Apache-2.0"
+readme = "README.md"
 
 [dependencies]
-terms = { path = '../terms' }
+terms = "0.1.0"
