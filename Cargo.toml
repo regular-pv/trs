@@ -12,4 +12,4 @@ license = "MIT/Apache-2.0"
 readme = "README.md"
 
 [dependencies]
-terms = "0.1.0"
+terms = "0.1.1"
