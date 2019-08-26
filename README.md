@@ -1,9 +1,9 @@
 # Term Rewriting Systems
 
 <table><tr>
-  <td><a href="https://docs.rs/term-rewriting">Documentation</a></td>
-  <td><a href="https://crates.io/crates/term-rewriting">Crate informations</a></td>
-  <td><a href="https://github.com/regular-pv/term-rewriting">Repository</a></td>
+  <td><a href="https://docs.rs/trs">Documentation</a></td>
+  <td><a href="https://crates.io/crates/trs">Crate informations</a></td>
+  <td><a href="https://github.com/regular-pv/trs">Repository</a></td>
 </tr></table>
 
 Provides Term Rewriting Systems for Rust using the [terms crate](https://crates.io/crates/terms).

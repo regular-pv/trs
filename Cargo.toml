@@ -1,13 +1,13 @@
 [package]
-name = "term-rewriting"
+name = "trs"
 version = "0.1.0"
 authors = ["Timothée Haudebourg <timothee.haudebourg@irisa.fr>"]
 edition = "2018"
 categories = ["data-structures", "science"]
 keywords = ["term", "pattern", "rewriting", "tree"]
 description = "Term Rewriting Systems"
-repository = "https://github.com/regular-pv/term-rewriting"
-documentation = "https://docs.rs/term-rewriting"
+repository = "https://github.com/regular-pv/trs"
+documentation = "https://docs.rs/trs"
 license = "MIT/Apache-2.0"
 readme = "README.md"
 
